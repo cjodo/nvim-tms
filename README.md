@@ -3,7 +3,7 @@
 super simple tmux sessionizer integration to nvim.
 
 ## Requirements: 
-Must have: ![tmux_sessionizer]("https://github.com/jrmoulton/tmux-sessionizer")   or another tmux sessionizer script **NOTE:tms is the only tested command.  As no one else will probably use this.**
+Must have: ![tmux_sessionizer]("https://github.com/jrmoulton/tmux-sessionizer")   or another tmux sessionizer script **NOTE: tms is the only tested command.  As no one else will probably use this.**
 
 **SEE USAGE FOR ALTERNATIVE**
 
